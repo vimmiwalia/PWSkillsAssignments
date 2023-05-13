@@ -1,0 +1,5 @@
+Q2. Given are some following variables containing data:
+(i) var1 = ‘ ‘ = String
+(ii) var2 = ‘[ DS , ML , Python]’ = String
+(iii) var3 = [ ‘DS’ , ’ML’ , ‘Python’ ] = List
+(iv) var4 = 1. - Float
